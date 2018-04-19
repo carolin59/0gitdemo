@@ -1,2 +1,2 @@
 # 0gitdemo
-for git webide
+Main repo (stash test) for git webide
